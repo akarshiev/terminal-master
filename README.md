@@ -5,8 +5,8 @@
   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║
      ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
-     ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-     ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+          ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
                 ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗
                 ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
                 ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝
@@ -31,24 +31,6 @@
 ## Nima bu?
 
 **TerminalMaster** — brauzerda to'liq ishlaydigan, interaktiv Linux va Tmux o'rganish platformasi. Server kerak emas, hech narsa o'rnatish shart emas — ochasan va o'rganasiz.
-
-```
-┌─────────────────┬────────────────────────────┬───────────────────┐
-│  Modul paneli   │     Virtual terminal        │  O'quv qo'llanma  │
-│                 │                             │                   │
-│  01 Basics    ✓ │  akarshiev@linux:~          │  pwd buyrug'i     │
-│  02 Navigation  │  akarshiev@linux:~ ❯ pwd   │                   │
-│  03 Files       │  /home/akarshiev            │  pwd (print       │
-│  04 Reading     │  akarshiev@linux:~ ❯ ls -l  │  working dir)     │
-│  05 Search      │  total 8                    │  joriy papkani    │
-│  06 Pipe        │  drwxr-xr-x  projects       │  ko'rsatadi.      │
-│  07 Permissions │  -rw-r--r--  notes.md       │                   │
-│  08 Processes   │  akarshiev@linux:~ ❯ █      │  [ Vazifaga o't ] │
-│  09 Tmux        │                             │                   │
-│  10 SSH         ├────────────────────────────┤  ─────────────    │
-│                 │  FILES  PERMS  PIPE          │  Qadamlar: 1/2   │
-└─────────────────┴────────────────────────────┴───────────────────┘
-```
 
 ## Imkoniyatlar
 
@@ -150,8 +132,7 @@ Yangi modul, dars yoki bug fix? Xush kelibsiz! → [CONTRIBUTING.md](CONTRIBUTIN
 
 - GitHub: [@akarshiev](https://github.com/akarshiev)
 - Telegram: [@abdukarim_qarshiyev](https://t.me/abdukarim_qarshiyev)
-- Blog: [uz.akarshiev.blog](https://uz.akarshiev.blog)
 
 ## Litsenziya
 
-[MIT](LICENSE) © 2026 Abdukarim Qarshiyev
+[MIT](LICENSE) Abdukarim Qarshiyev
